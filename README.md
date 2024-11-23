@@ -1,1 +1,1 @@
-Link : giaic-assignment-figma-website.vercel.app
+Link : https://giaic-assignment-figma-website.vercel.app/
